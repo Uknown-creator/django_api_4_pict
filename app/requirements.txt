@@ -1,0 +1,8 @@
+pillow
+environ
+Django==2.2.28
+django-environ
+djangorestframework
+django-filter
+psycopg2
+django-imagekit
